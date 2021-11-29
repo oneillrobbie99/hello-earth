@@ -1,2 +1,3 @@
-# hello-earth
-My first repository on GitHub
+Cocktail Club
+
+Portfolio Project 1
